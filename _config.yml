@@ -4,6 +4,6 @@ author:
   name: Thomas Gadd
   email: thomas.gadd.alt@gmail.com
 description: "Website for all Academic and Professional things related to myself."
-
+logo: /assets/Selfie.jpg
 # Build settings
 remote_theme: BDHU/minimalist
