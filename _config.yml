@@ -7,3 +7,7 @@ description: "Website for all Academic and Professional things related to myself
 logo: /assets/Selfie.jpg
 # Build settings
 remote_theme: BDHU/minimalist
+
+sidebar:
+  - name: Email
+    link: mailto://thomas.gadd.alt@gmail.com 
