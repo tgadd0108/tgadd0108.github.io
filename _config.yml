@@ -6,4 +6,4 @@ author:
 description: "Website for all Academic and Professional things related to myself."
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: BDHU/minimalist
